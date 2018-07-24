@@ -8,6 +8,5 @@ public interface Map {
     interface Entry{
         Object getKey();
         Object getValue();
-
     }
 }

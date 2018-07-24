@@ -70,13 +70,12 @@ public class HashMap implements Map {
 
         /*
          * 上面两句话，需要注意的是，如果i位置原始位置table[i]没有值，
-         * eNode为空，就直接将新的node放入table[i],并将该node的next指向空
-新的node插入到原始node的前面，所以新的node的next指向原始位置i的node
+         * eNode为空，就直接将新的node放入table[i],并将该node的next指
+         * 向空新的node插入到原始node的前面，所以新的node的next指向原始位置i的node
          */
     }
 
     public int indexFor(int hashValue, int length) {
-
 
         return hashValue%length;
     }
