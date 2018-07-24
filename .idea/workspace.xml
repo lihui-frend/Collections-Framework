@@ -78,31 +78,31 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.Main" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.QuickSort" />
-      <module name="Algorithm" />
+  <component name="RunManager" selected="Application.HashMap">
+    <configuration name="HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.framework.HashMap" />
+      <module name="Collections Framework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.*" />
+          <option name="PATTERN" value="com.framework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.framework.Main" />
+      <module name="Collections Framework" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.HashMap" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.HashMap" />
       </list>
     </recent_temporary>
   </component>
